@@ -17,7 +17,7 @@ facebook-scraper
 python-dotenv
 flask
 langdetect
-googletrans==4.0.0rc1
+deep-translator
 transformers
 torch
 textblob
